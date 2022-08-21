@@ -1,3 +1,11 @@
+.appheader{
+  background-image:url('https://secure.static.tumblr.com/7ac47155b4ea199a80a234bb7e0775b3/teivwan/ezandb9t9/tumblr_static_tumblr_static_9mb6uq2zv4844wcowgcok4cco_640.gif');
+  height: 700px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0px;
+}
+
 .App {
   text-align: center;
 }
@@ -36,3 +44,4 @@
     transform: rotate(360deg);
   }
 }
+

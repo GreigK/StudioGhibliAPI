@@ -1,0 +1,17 @@
+.header{
+    text-size-adjust: 100px;
+}
+
+.text_center{
+    font-size: 400px;
+}
+
+
+.body{
+    margin: auto;
+    background-image: url("https://wallpaperset.com/w/full/f/e/d/444559.jpg");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center;
+    color: white;
+}
